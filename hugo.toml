@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jessysnow.github.io/'
 languageCode = 'en-us'
-title = 'Jessy の blog'
-theme = 'ananke'
+title = "Jessy's blog"
+theme = 'PaperMod'
 
 [caches]
   [caches.images]
